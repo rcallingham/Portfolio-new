@@ -120,6 +120,9 @@ p {
   color: white;
   border: 0.5px solid var(--primary-color);
 }
+a:hover {
+  color: grey;
+}
 
 .app-headings {
   text-align: left;
